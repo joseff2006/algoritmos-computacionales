@@ -1,0 +1,48 @@
+En la clase de hoy he aprendido sobre
+la etiquetas div Este código HTML
+representa la estructura básica de 
+una interfaz web que permite al 
+usuario interactuar con una lista
+de palabras. Incluye un campo de
+entrada de texto y varios botones
+con funciones específicas: 
+agregar, borrar, mostrar y
+modificar. Estos elementos están 
+organizados dentro de un contenedor
+principal y acompañados por un
+área de resultados donde se 
+espera que se muestren los datos
+procesados. El documento también 
+enlaza una hoja de estilos externa y un 
+archivo JavaScript que probablemente contiene
+ la lógica de funcionamiento de los botones.
+
+La presencia del atributo `type="module"` 
+en el script indica que se está utilizando 
+JavaScript moderno, lo que permite importar
+y exportar funciones entre archivos. Aunque
+el contenido de los archivos `style.css` y `app.js`
+no está incluido, se puede deducir que el 
+primero define el diseño visual de la página 
+y el segundo gestiona la interacción del usuario 
+con los elementos HTML. 
+
+1 conecciones y estructura logica 
+2 entrada de datos 
+3 eprocesamiento logico
+4 salida de datos o resultados 
+
+javascript soporta la progamacion funcional , 
+la programacion modular y la programacion orientada a objetos .
+
+en javascript se ueden utilizar funciones nativas y funciones
+ definidas por el progamador.
+
+ Una funcion nativa es aquella que viene integrada con el
+  lenguaje de programacion  y solo necesita ser invocada 
+  mas no declarada 
+
+  a una funcion definida por el programador es aquella quen 
+  si neceita ser declarada , definida y programada para luego 
+  ser invocada    
+
