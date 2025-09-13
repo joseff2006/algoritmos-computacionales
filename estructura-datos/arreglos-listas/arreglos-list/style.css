@@ -1,0 +1,12 @@
+.luna {
+    position: absolute;
+    top: 80px;
+    left: 70vw;
+    width: 220px;
+    height: 220px;
+    background: url('https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80') center/cover no-repeat;
+    border-radius: 50%;
+    box-shadow: 0 0 80px 30px #fff8, 0 0 200px 60px #fff2;
+    z-index: 1;
+    overflow: hidden;
+}
