@@ -1,0 +1,8 @@
+Los algoritmos de búsqueda en programación son métodos utilizados para localizar
+un elemento específico dentro de una estructura de datos. Existen diferentes tipos,
+como la búsqueda lineal, que recorre cada elemento hasta encontrar el objetivo, y 
+la búsqueda binaria, que divide el conjunto ordenado en mitades para reducir el 
+número de comparaciones. También se emplean algoritmos más complejos como Dijkstra
+o A*, que se utilizan en estructuras como grafos para encontrar rutas óptimas. 
+Estos algoritmos permiten mejorar la eficiencia de los programas al reducir el 
+tiempo de búsqueda y optimizar el uso de recursos computacionales.
