@@ -1,0 +1,10 @@
+ Durante este modulo pude aprender que un algoritmo es una secuencia
+finita de pasos lógicos y ordenados que permiten resolver un problema
+o realizar una tarea específica.Son la base de la programación y se
+aplican en diversas áreas como búsqueda, ordenamiento, cálculo y toma
+de decisiones. Los algoritmos pueden ser simples, como recorrer una 
+lista para encontrar un valor, o complejos, como dividir y reorganizar
+datos para mejorar eficiencia. Se representan comúnmente mediante
+pseudocódigo, diagramas de flujo o directamente en lenguajes de 
+programación. Su diseño considera claridad, eficiencia y precisión 
+para asegurar resultados correctos y optimizados.
