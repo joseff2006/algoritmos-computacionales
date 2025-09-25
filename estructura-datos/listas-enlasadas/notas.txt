@@ -1,0 +1,11 @@
+Las listas enlazadas son estructuras de datos en las que cada 
+elemento, llamado nodo, contiene un valor y una referencia al 
+siguiente nodo en la secuencia. Aprendí que, a diferencia de 
+los arreglos, las listas enlazadas no requieren un bloque de 
+memoria contiguo, lo que permite una gestión más flexible de 
+los datos. Existen variantes como listas simplemente enlazadas,
+doblemente enlazadas y circulares, cada una con características
+específicas para recorrer o modificar la secuencia. Son útiles 
+en algoritmos que requieren inserciones o eliminaciones 
+frecuentes, ya que estas operaciones no implican el 
+desplazamiento de elementos como ocurre en los arreglos.
