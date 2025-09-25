@@ -1,0 +1,16 @@
+Se aprendió que las estructuras de datos son formas organizadas 
+de almacenar y gestionar información para facilitar su acceso y 
+manipulación. Entre ellas, las listas enlazadas permiten insertar
+y eliminar elementos sin necesidad de mover otros datos, ya que 
+cada nodo apunta al siguiente. Las pilas y colas gestionan datos
+en orden específico: LIFO (último en entrar, primero en salir) y 
+FIFO (primero en entrar, primero en salir), respectivamente. Los
+árboles binarios organizan datos jerárficamente, optimizando 
+búsquedas y recorridos. Los grafos representan relaciones entre
+elementos mediante nodos y aristas, útiles en redes y rutas. 
+Los diccionarios almacenan pares clave-valor, permitiendo acceso
+directo a la información. Las tablas en bases de datos se 
+componen de filas (registros) y columnas (atributos), estructurando
+datos para consultas eficientes. Cada estructura tiene ventajas 
+según el tipo de problema, y su correcta elección mejora el 
+rendimiento de los algoritmos.
