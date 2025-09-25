@@ -1,0 +1,13 @@
+Los grafos en los algoritmos de datos son estructuras que 
+representan relaciones entre elementos mediante nodos 
+(también llamados vértices) y conexiones entre ellos llamadas
+aristas. Aprendí que los grafos pueden ser dirigidos o no 
+dirigidos, dependiendo de si las conexiones tienen una 
+dirección específica. Se utilizan para modelar redes como
+rutas de transporte, conexiones sociales, sistemas de 
+comunicación y dependencias entre tareas. Los algoritmos
+aplicados a grafos permiten resolver problemas como encontrar
+el camino más corto, detectar ciclos, recorrer todos los 
+nodos o identificar componentes conectados. Son fundamentales
+en áreas como inteligencia artificial, análisis de redes y 
+optimización.
