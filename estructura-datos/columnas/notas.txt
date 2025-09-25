@@ -1,0 +1,8 @@
+Las columnas en una base de datos representan los atributos o 
+características de los datos almacenados en una tabla. Cada 
+columna tiene un nombre y un tipo de dato definido, como texto, 
+número o fecha, lo que permite organizar la información de forma
+estructurada. Aprendí que las columnas son esenciales para definir
+qué tipo de información se guarda en cada fila, y que su correcta 
+configuración influye en la eficiencia de las consultas, la integridad 
+de los datos y la claridad del diseño de la base de datos.
