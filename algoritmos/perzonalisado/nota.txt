@@ -1,0 +1,15 @@
+Durante la actividad se estudiaron algoritmos fundamentales
+en programación, incluyendo búsqueda lineal y binaria, así 
+como ordenamientos como burbuja, quicksort y merge sort. 
+Se comprendió que un algoritmo es una secuencia de pasos 
+finitos y ordenados para resolver un problema. La búsqueda 
+lineal recorre cada elemento hasta encontrar el objetivo, 
+mientras que la binaria divide el arreglo ordenado en mitades 
+sucesivas. En ordenamiento, se analizó cómo Bubble Sort 
+intercambia elementos adyacentes, Quicksort utiliza un 
+pivote para dividir y ordenar recursivamente, y Merge Sort 
+separa el arreglo en mitades y las fusiona de forma ordenada. 
+Se implementaron estos algoritmos en JavaScript, observando 
+el uso de ciclos, condicionales, funciones y recursión. Se 
+identificaron diferencias de eficiencia entre los métodos, 
+especialmente en listas grandes.
