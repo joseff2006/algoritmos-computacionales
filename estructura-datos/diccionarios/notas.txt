@@ -1,0 +1,9 @@
+Un diccionario en algoritmos de datos es una estructura que almacena 
+pares clave-valor, permitiendo acceder rápidamente a la información 
+mediante una clave única. Aprendí que los diccionarios son útiles 
+para búsquedas eficientes, conteo de elementos, agrupación de datos
+y representación de relaciones. A diferencia de listas o arreglos, no 
+dependen del orden de los elementos, sino de la asociación entre claves
+y valores. Esta estructura se encuentra en muchos lenguajes de programación,
+como `dict` en Python o `Map` en JavaScript, y es fundamental en 
+algoritmos que requieren acceso directo y rápido a datos específicos.
