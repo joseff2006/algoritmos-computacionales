@@ -1,0 +1,10 @@
+Un árbol binario es una estructura de datos jerárquica en la que 
+cada nodo tiene como máximo dos hijos: uno izquierdo y uno derecho.
+Se utiliza para organizar información de forma que permita búsquedas,
+inserciones y eliminaciones eficientes. El nodo superior se llama raíz,
+y los nodos sin hijos se denominan hojas. Existen variantes como el 
+árbol binario de búsqueda, donde los valores menores se ubican en el
+subárbol izquierdo y los mayores en el derecho, facilitando operaciones
+rápidas. Esta estructura es fundamental en algoritmos de recorrido como
+inorden, preorden y postorden, y se aplica en sistemas de archivos, 
+compiladores y bases de datos.
