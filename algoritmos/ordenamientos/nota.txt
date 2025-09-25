@@ -1,0 +1,10 @@
+Los algoritmos de ordenamiento en programación son técnicas utilizadas
+para organizar datos en un orden específico, ya sea ascendente o descendente.
+Estos algoritmos permiten mejorar la eficiencia en búsquedas, comparaciones y 
+otras operaciones sobre conjuntos de datos. Algunos de los más conocidos son 
+el ordenamiento burbuja, que compara elementos adyacentes y los intercambia 
+si están en el orden incorrecto; el ordenamiento por inserción, que construye 
+la lista ordenada elemento por elemento; y el ordenamiento rápido (quicksort),
+que utiliza un enfoque de divide y vencerás para ordenar grandes volúmenes de 
+datos de forma eficiente. La elección del algoritmo depende del tamaño del conjunto
+de datos, la complejidad deseada y los recursos disponibles.
