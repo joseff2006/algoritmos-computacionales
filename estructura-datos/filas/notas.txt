@@ -1,0 +1,10 @@
+Las filas en estructuras de datos, especialmente en bases de 
+datos, representan registros individuales que agrupan valores
+correspondientes a cada columna definida en una tabla. Aprendí
+que cada fila contiene una instancia completa de información, 
+como un conjunto de datos relacionados entre sí, y que su orden 
+no afecta la lógica del almacenamiento, pero sí puede influir 
+en la presentación o consulta. Las filas permiten organizar y 
+acceder a datos de forma estructurada, facilitando operaciones
+como búsqueda, filtrado, actualización y eliminación dentro de 
+sistemas que manejan grandes volúmenes de información.
