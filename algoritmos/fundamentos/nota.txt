@@ -1,0 +1,11 @@
+Los fundamentos de los algoritmos en programación se basan en el diseño
+de pasos lógicos y ordenados para resolver un problema específico. Un 
+algoritmo debe ser claro, preciso y finito, lo que significa que tiene 
+que indicar exactamente qué hacer, sin ambigüedades, y debe terminar en
+algún momento. Se compone de instrucciones que transforman una entrada 
+en una salida, y su eficiencia se evalúa en términos de tiempo de ejecución 
+y uso de recursos. Además, los algoritmos pueden clasificarse según su enfoque, 
+como divide y vencerás, programación dinámica o algoritmos voraces, cada uno 
+con sus propias ventajas dependiendo del tipo de problema. Entender estos 
+principios permite desarrollar soluciones más efectivas y estructuradas en 
+el desarrollo de software.
